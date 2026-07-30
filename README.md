@@ -3,7 +3,7 @@
 ## Overview
 This repository is part of the Fall Foliage, Climate Change, and Recreational Tourism research at the University of Richmond. This project focuses on understanding and disentangling the effects of climate change on the timing of fall foliage in National Parks on the East Coast and considering the impacts on recreational tourism of these changes.
 
-The overarching objective of this project is to create a program using python to determine the dates of peak fall foliage of an area over time to understand how the timing of peak fall foliage is changing as a result of climate change. This project focuses on Shenandoah National Park, however the end-goal is to be able to use this anywhere.
+The overarching objective of this project is to determine the dates of peak fall foliage of an area over time to understand how the timing of peak fall foliage is changing as a result of climate change. This project focuses on Shenandoah National Park, however the end-goal is to be able to use this anywhere.
 
 ## Data
 This project relies on MODIS data (MODerate resolution Imaging Spectroradiometer), specifically the 500 m resolution MODIS MC43A4 Version 6 Nadir BRDF ([MCD43A4.061](https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MCD43A4)) product.
