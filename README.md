@@ -1,9 +1,7 @@
 # nps-fall-foliage
-<a href="https://geography.richmond.edu/">![](logos/leif.png){align="right"}</a>
-<a href="https://richmond.edu/">![](logos/ur.png){align="right"}</a>
-
 ## Overview
-
+<a href="https://richmond.edu/"><img src="logos/ur.png" align="right" height="138" alt="University of Richmond Website" /></a>
+<a href="https://geography.richmond.edu/"><img src="logos/leif.png" align="right" height="138" alt="UR Geography Website" /></a>
 This repository is part of the Fall Foliage, Climate Change, and Recreational Tourism research at the University of Richmond. This project focuses on understanding and disentangling the effects of climate change on the timing of fall foliage in National Parks on the East Coast and considering the impacts on recreational tourism of these changes.
 
 The overarching objective of this project is to determine the dates of peak fall foliage of an area over time to understand how the timing of peak fall foliage is changing as a result of climate change. This project focuses on Shenandoah National Park, however the end-goal is to be able to use this anywhere.
