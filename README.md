@@ -4,7 +4,7 @@
 <a href="https://geography.richmond.edu/"><img src="logos/leif.png" align="right" height="138" alt="UR Geography Website" /></a>
 This repository is part of the Fall Foliage, Climate Change, and Recreational Tourism research in the University of Richmond's Department of Geography, Environment, and Sustainability. This research focuses on understanding and disentangling the effects of climate change on the timing of fall foliage in National Parks, while considering the impacts on recreational tourism.
 
-This repository contains the code for the project "Evaluating Long-Term Temporal Shifts in Foliage Senescence in Response to a Changing Climate in Shenandoah National Park, Virginia". The objective of this project is to understand how the timing of peak fall coloration across Shenandoah National Park is changing from 2000-2025, as a result of a changing climate.
+This repository contains the code for the senior capstone project "Evaluating Long-Term Temporal Shifts in Foliage Senescence in Response to a Changing Climate in Shenandoah National Park, Virginia". The objective of this project is to understand how the timing of peak fall coloration across Shenandoah National Park is changing from 2000-2025, as a result of a changing climate.
 
 ## Data
 
